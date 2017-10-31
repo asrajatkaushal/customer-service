@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstName": "ABC",
+    "lastName": "PQRS",
+    "email": "abc.pqrs@test.com",
+    "username": "abc.pqrs",
+    "password": "abc.pqrs"
+  },
+  {
+    "id": 2,
+    "firstName": "DEF",
+    "lastName": "WXYZ",
+    "email": "def.wxyz@test.com",
+    "username": "def.wxyz",
+    "password": "def.wxyz"
+  }
+]
